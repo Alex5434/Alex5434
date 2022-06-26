@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Alex5434
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Alex5434/Alex5434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m alex
+-  I’m interested in frontend and UI and UX design
+-  I’m currently pursuing computer science and engineering course in engineering
+-  2024 passed out
+-  You can contact me through mail 
+-  Self learner
