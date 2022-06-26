@@ -1,5 +1,5 @@
 -  Hi, I’m alex
--  I’m interested in frontend and UI and UX design
+-  I’m interested in frontend and UI/UX design
 -  I’m currently pursuing computer science and engineering course in engineering
 -  2024 passed out
 -  You can contact me through mail 
